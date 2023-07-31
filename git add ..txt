@@ -1,0 +1,7 @@
+git add .
+cd Frontend-React.JS-QuickStart
+git add .
+cd ../Backend-NodeJS-Quickstart-master
+git add .
+git commit -m "mo ta"
+git push origin master
